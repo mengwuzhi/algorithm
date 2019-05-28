@@ -8,7 +8,9 @@
 
 ### 如何使用源码
 1.拷贝源码：git clone 源码地址 leetcode
+
 2.master分支：环境搭建原始内容 git checkout master
+
 3.dev分支：所有源码 git checkout dev
 
 学习git地址：https://git.imooc.com/coding-315/leetcode.git
