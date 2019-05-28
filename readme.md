@@ -13,8 +13,19 @@
 
 3.dev分支：所有源码 git checkout dev
 
+### 关于设备
+1.Windows
+&emsp;&emsp;Node\Atom\Git bash
+2.Mac
+&emsp;&emsp;Node\Atom\Item2
+
 学习git地址：https://git.imooc.com/coding-315/leetcode.git
 
+
+### Atom插件与配置
+1.es6-javascript
+2.javascript-snippets
+3.platform IDE terminal
 
 
 
